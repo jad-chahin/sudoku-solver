@@ -1,1 +1,3 @@
-Java program to solve sudoku puzzles using recursive backtracking
+# sudoku-solver
+
+Java program to solve sudoku puzzles using recursive backtracking.
